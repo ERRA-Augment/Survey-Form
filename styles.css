@@ -3,11 +3,18 @@
  }
  
  #survey-form {
+     border-radius: 20px;
+     background-color: rgba(245, 153, 124, 0.4);
      width: 900px;
      margin: 0 auto;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     -ms-border-radius: 1000px;
+     -o-border-radius: 20px;
  }
  
  .row-tab {
+     font-weight: bold;
      display: block;
      padding-top: 20px;
  }
@@ -34,4 +41,36 @@
      display: inline-block;
      text-align: right;
      width: 26.5%;
+ }
+ 
+ .labels-radio {
+     display: inline-block;
+     text-align: right;
+     width: 26.5%;
+ }
+ 
+ .input-radio {
+     display: inline-block;
+     text-align: left;
+     width: 40%;
+ }
+ 
+ .checkbox-labels {
+     display: inline-block;
+     text-align: right;
+     width: 26.5%;
+ }
+ 
+ .checkbox-input {
+     display: inline-block;
+     text-align: left;
+     width: 40%;
+ }
+ 
+ .submit {
+     padding: 40px;
+ }
+ 
+ .button {
+     padding: 20px;
  }
