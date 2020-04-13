@@ -14,14 +14,8 @@
  
  .label-surveyform {
      display: inline-block;
-     width: 40%;
      text-align: right;
- }
- 
- .label-surveyform {
-     display: inline-block;
      width: 40%;
-     text-align: left;
  }
  
  .input-surveyform {
@@ -32,8 +26,8 @@
  
  .label-select {
      display: inline-block;
-     width: 40%;
      text-align: right;
+     width: 40%;
  }
  
  .select-input {
