@@ -21,17 +21,17 @@
  .input-surveyform {
      display: inline-block;
      text-align: left;
-     width: 40%;
- }
- 
- .label-select {
-     display: inline-block;
-     text-align: right;
-     width: 40%;
+     width: 20%;
  }
  
  .select-input {
      display: inline-block;
      text-align: left;
      width: 40%;
+ }
+ 
+ .label-select {
+     display: inline-block;
+     text-align: right;
+     width: 26.5%;
  }
